@@ -15,7 +15,7 @@ A command-line tool for checking Ethereum wallet balances and token holdings wit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wallet-watcher.git
+git clone https://github.com/6SUPER6SONIC6/wallet-watcher.git
 cd wallet-watcher
 ```
 
